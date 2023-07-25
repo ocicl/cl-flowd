@@ -1,0 +1,10 @@
+* cl-flowd
+
+Common Lisp netflow log reader for flowd logs
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mmaul/cl-flowd.git   |
+| commit  | 92e5039  |
+| systems | cl-flowd |
+|---------+-------------------------------------------|
+
